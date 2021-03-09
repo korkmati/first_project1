@@ -6,3 +6,4 @@ limu
 sooda
 suola
 
+muista ostaa omenoita
