@@ -1,3 +1,4 @@
+
 kurkku
 tomatti
 salaatti
@@ -8,3 +9,4 @@ suola
 
 muista ostaa omenoita
 muista vielä puuro
+moi kaikki
